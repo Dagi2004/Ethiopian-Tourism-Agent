@@ -15,7 +15,7 @@ const Home = () => {
     <>
       <div className="min-h relative text-center text-white">
         <img
-          src="herosection.jpg"
+          src="https://images.unsplash.com/photo-1514911221983-f44b94b306ce?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fG1vdW50YWluJTIwZm91bnRhaW58ZW58MHx8MHx8fDA%3D"
           alt=""
           className="w-full md:h-screen object-cover rounded-md "
         />
@@ -23,7 +23,7 @@ const Home = () => {
           <h1 className="sm:text-3xl  md:text-4xl font-bold">
             Discover Ethiopia
           </h1>
-          <p className="mt-2 text-sm md:text-lg">
+          <p className="mt-2 text-md font-bold text-white md:text-3xl">
             Explore the breathtaking landscapes and rich cultural heritage of
             Ethiopia
           </p>
@@ -48,19 +48,19 @@ const Home = () => {
         <div className="mx-auto mt-6 grid grid-cols-1 md:grid-cols-3 gap-6">
           {[
             {
-              src: "Ethiopian Dances.jpg",
+              src: "https://www.prlog.org/12613377-eskista.jpg",
               title: "Traditional Ethiopian Dance",
               description:
                 "Witness the energy and grace of traditional Ethiopian dances, performed during festivals and special occasions.",
             },
             {
-              src: "Coffee Ceremony.jpg",
+              src: "https://media.istockphoto.com/id/2148372061/photo/ethiopian-coffee-ceremony-with-aromatic-frankincense-debre-libanos-ethiopia.webp?a=1&b=1&s=612x612&w=0&k=20&c=IaFkOl_ldV3V4hbLEI-OaMQkeU3DgyL5_h2mREWPBEk=",
               title: "Ethiopian Coffee Ceremony",
               description:
                 "Experience the traditional Ethiopian coffee ceremony, a ritual that symbolizes hospitality and community.",
             },
             {
-              src: "Eth-Park.png",
+              src: "https://media.istockphoto.com/id/672077498/photo/panorama-of-semien-mountains-and-valley-around-lalibela-ethiopia.webp?a=1&b=1&s=612x612&w=0&k=20&c=nN1lhshYRODuHMkPTFj6hsjGAiWSXDWqmCYRLth3_c4=",
               title: "Ethiopian National Parks",
               description:
                 "Ethiopia is home to some of Africa's most breathtaking national parks, each offering unique landscapes and diverse wildlife.",

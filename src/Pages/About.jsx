@@ -20,19 +20,19 @@ const About = () => {
         </div>
         <div className="md:w-1/3 mt-4 transform transition duration-500 hover:scale-105">
           <img
-            src="ForestAbout.png"
+            src="https://plus.unsplash.com/premium_photo-1691868602803-2051726efba8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fEV0aGlvcGlhbiUyME5hdGlvbmFsJTIwUGFya3N8ZW58MHx8MHx8fDA%3D"
             alt="Forest"
             className="rounded-lg w-full h-auto"
           />
         </div>
         <div className="flex-flex-col space-y-4 md:w-1/3 mt-4 ">
           <img
-            src="park-1.png"
+            src="https://media.istockphoto.com/id/185009260/photo/gelada-baboon-in-the-simien-mountains.webp?a=1&b=1&s=612x612&w=0&k=20&c=pFK86SjI9FAt0apJsoJVZqcYZjtIrhp39ckN8e1nrmc="
             alt="Park"
             className="rounded-lg w-full h-auto transform transition duration-500 hover:scale-105"
           />
           <img
-            src="park.jpeg"
+            src="https://media.istockphoto.com/id/1191115931/photo/simien-mountains-panorama-in-northern-ethiopia.webp?a=1&b=1&s=612x612&w=0&k=20&c=O2gktb3EWisUkmCmwrirE1cFjhmbjjkHtfNugKpEpIs="
             alt="Park"
             className="rounded-lg w-full h-auto transform transition duration-500 hover:scale-105"
           />

@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.animate-fade-in {
+  transition: opacity 1s ease-in-out;
+}
